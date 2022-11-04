@@ -5,3 +5,5 @@ this is docker
 this is kubernetes
 This is nexus
 this is nagios
+This is cloud watch
+this is ec2 instance
