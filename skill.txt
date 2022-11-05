@@ -13,3 +13,4 @@ this is maven
 tomcat
 maven
 This added of resolve merge
+this added to resolve conflicts on hariwork2
