@@ -13,7 +13,12 @@ this is maven
 tomcat
 maven
 <<<<<<< HEAD
+<<<<<<< HEAD
 This added of resolve merge
 =======
 This added for resolve conflicts
 >>>>>>> 4bfd6c35853e53e7b9ffab769f27de65653fac58
+=======
+This added of resolve merge
+this added to resolve conflicts on hariwork2
+>>>>>>> 2e15f0aaec770d3315dadba757e220b5ca015d0a
