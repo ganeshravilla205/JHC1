@@ -12,4 +12,8 @@ this is tomat
 this is maven
 tomcat
 maven
+<<<<<<< HEAD
 This added of resolve merge
+=======
+This added for resolve conflicts
+>>>>>>> 4bfd6c35853e53e7b9ffab769f27de65653fac58
