@@ -10,3 +10,5 @@ this is ec2 instance
 This is demo resolve conflicts
 this is tomat
 this is maven
+tomcat
+maven
