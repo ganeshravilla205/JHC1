@@ -12,3 +12,4 @@ this is tomat
 this is maven
 tomcat
 maven
+This added of resolve merge
