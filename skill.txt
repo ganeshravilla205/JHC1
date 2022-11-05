@@ -7,3 +7,5 @@ This is nexus
 this is nagios
 This is cloud watch
 this is ec2 instance
+tomcat
+maven
