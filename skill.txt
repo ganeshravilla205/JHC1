@@ -22,3 +22,5 @@ This added for resolve conflicts
 This added of resolve merge
 this added to resolve conflicts on hariwork2
 >>>>>>> 2e15f0aaec770d3315dadba757e220b5ca015d0a
+ibm cloud
+web sphere
